@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-web cache and tracker
+web cache
 """
 import requests
 import redis
